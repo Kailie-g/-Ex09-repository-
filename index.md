@@ -13,9 +13,9 @@ layout: default
 
 <img src="{{site.baseurl}}static/imgs/1.png" alt="Graph 1. "  width="500"/>
 
-<img src="/-Ex09-repository-/static/imgs/2.png" alt="Graph 2. "  width="500"/>
+<img src="{{site.baseurl}}/static/imgs/2.png" alt="Graph 2. "  width="500"/>
 
-<img src="-Ex09-repository-/static/imgs/3.png" alt="Graph 3. "  width="500"/>
+<img src="{{site.baseurl}}/static/imgs/3.png" alt="Graph 3. "  width="500"/>
 
 ## Conclusion 
 
