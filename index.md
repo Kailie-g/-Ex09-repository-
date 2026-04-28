@@ -11,11 +11,11 @@ layout: default
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 
-<img src="<custom-path>/static/imgs/#1.png" alt="#1 graph. "  width="500"/>
+<img src="/-Ex09-repository-/static/imgs/#1.png" alt="#1 graph. "  width="500"/>
 
-<img src="<custom-path>/static/imgs/#2.png" alt="#2 graph. "  width="500"/>
+<img src="/-Ex09-repository-/static/imgs/#2.png" alt="#2 graph. "  width="500"/>
 
-<img src="<custom-path>/static/imgs/#3.png" alt="#3 graph. "  width="500"/>
+<img src="/-Ex09-repository-/static/imgs/#3.png" alt="#3 graph. "  width="500"/>
 
 ## Conclusion 
 
