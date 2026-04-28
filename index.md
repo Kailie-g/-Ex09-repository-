@@ -11,7 +11,7 @@ layout: default
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 
-<img src="{{site.baseurl}}static/imgs/1.png" alt="Graph 1. "  width="500"/>
+<img src="{{site.baseurl}}/static/imgs/1.png" alt="Graph 1. "  width="500"/>
 
 <img src="{{site.baseurl}}/static/imgs/2.png" alt="Graph 2. "  width="500"/>
 
