@@ -1,6 +1,6 @@
 ---
 # Do not edit the text between these lines!
-layout: Hacker
+layout: ./Hacker
 ---
 
 # Analysis Summary:
